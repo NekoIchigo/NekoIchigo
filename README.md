@@ -1,4 +1,4 @@
-About Me
+## About Me
 
 I'm a dedicated full-stack developer with a focus on creating responsive and dynamic applications. I have a strong background in front-end and back-end development, and I know a lot about the following technologies:
 
@@ -7,11 +7,11 @@ I'm a dedicated full-stack developer with a focus on creating responsive and dyn
   - Vue.js (with Composition API) for crafting modern and efficient web interfaces
   - Tailwind CSS for designing stylish and responsive user experiences
     
-My Projects
+## My Projects
 
 This GitHub repository serves as my temporary portfolio, showcasing my personal projects and technical skills. Here, you can find a variety of projects that demonstrate my proficiency and creativity in software development. Each project is a testament to my dedication to continuous learning and improvement.
 
-Connect with Me
+## Connect with Me
 
 If you are looking for a developer with a strong technical background and a passion for building impactful applications, feel free to reach out!
 
