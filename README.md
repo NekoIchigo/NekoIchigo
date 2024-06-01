@@ -16,6 +16,7 @@ This GitHub repository serves as my temporary portfolio, showcasing my personal 
 If you are looking for a developer with a strong technical background and a passion for building impactful applications, feel free to reach out!
 
 **Email**: [reydanjohnbelen@gmail.com](mailto:reydanjohnbelen@gmail.com)
+**Download my CV**: [click here!](./ReydanJohnBelen_CV.pdf)
 
 
 <!--
